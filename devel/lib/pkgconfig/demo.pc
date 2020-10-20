@@ -1,0 +1,8 @@
+prefix=/home/xunshuidezhu/ros/devel
+
+Name: demo
+Description: Description of demo
+Version: 0.0.0
+Cflags: -I/home/xunshuidezhu/ros/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

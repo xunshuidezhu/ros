@@ -1,0 +1,31 @@
+(cl:defpackage demo-msg
+  (:use )
+  (:export
+   "<DETECTINGRESULT>"
+   "DETECTINGRESULT"
+   "<GRIDCELL>"
+   "GRIDCELL"
+   "<GRIDMAP>"
+   "GRIDMAP"
+   "<IMAGE>"
+   "IMAGE"
+   "<POS>"
+   "POS"
+   "<PREDICTWAYPOINTARRAY>"
+   "PREDICTWAYPOINTARRAY"
+   "<SJTU_OUT>"
+   "SJTU_OUT"
+   "<SU_OUT>"
+   "SU_OUT"
+   "<SITUATION>"
+   "SITUATION"
+   "<WRT>"
+   "WRT"
+   "<WRT_RUNTIME_INFO>"
+   "WRT_RUNTIME_INFO"
+   "<WAYPOINT>"
+   "WAYPOINT"
+   "<SIMCONTROL>"
+   "SIMCONTROL"
+  ))
+
